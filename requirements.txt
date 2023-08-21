@@ -1,0 +1,8 @@
+openai==0.27.8
+replicate==0.11.0
+pytz==2023.3
+pytz-deprecation-shim==0.1.0.post0
+pandas==2.0.3
+pwn==1.0
+pwntools==4.10.0
+matplotlib==3.7.2

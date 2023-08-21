@@ -1,3 +1,5 @@
+result/*
+!result/20230820-19:12
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
